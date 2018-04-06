@@ -1,0 +1,36 @@
+body {
+  background-image: url(images/IMG_wood.JPG);
+}
+
+
+ h1 {
+  padding-top: 110px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 100px;
+  color: white;
+  text-align: center;
+ }
+
+
+a {
+  text-decoration: none;
+  color: white;
+  font-family: 'Oswald', sans-serif;
+  font-size: 40px;
+}
+
+ul {
+ list-style-type: none;
+ text-align: center;
+}
+
+li {
+ display: inline;
+ padding-right: 40px;
+
+ 
+}
+
+
+
+

@@ -1,0 +1,150 @@
+body {
+  background-image: url(images/IMG_wood.JPG);
+}
+
+header {
+  padding: 10px 0;
+  border-bottom: 4px solid gold;
+  text-align: center;
+}
+
+
+
+ 
+
+
+
+ li {
+  padding: 0 20px;
+  display: inline;
+  font-family: 'Oswald', sans-serif;
+  font-size: 30px;
+  padding-right: 50px;
+  padding-left: 50px;
+}
+
+a {
+  text-decoration: none;
+  color: gold;
+}
+
+
+body {
+    
+    padding: 20px;
+    font-family: Arial;
+    
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+  color: white;
+}
+
+
+
+gallery:hover {
+    border: 1px solid #777;
+}
+
+
+.desc {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+}
+
+
+
+#urn {
+  padding-top: 50px;
+  margin-top: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  height: auto;
+}
+
+#saddle {
+  padding-top: 25px;
+  margin-top: 25px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 17%;
+  height: auto;
+}
+
+#bunkbeds {
+  padding-top: 50px;
+  margin-top: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  height: auto;
+}
+
+#shelves {
+  padding-top: 50px;
+  margin-top: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  height: auto;
+}
+
+#fireplace {
+  padding-top: 50px;
+  margin-top: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 17%;
+  height: auto;
+}
+
+#laundry {
+  padding-top: 50px;
+  margin-top: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 17%;
+  height: auto;
+}
+
+#cornhole {
+  padding-top: 50px;
+  margin-top: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 17%;
+  height: auto;
+}
+
+#craft {
+  padding-top: 50px;
+  margin-top: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  height: auto;
+}
+
+#bench {
+  padding-top: 50px;
+  margin-top: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  height: auto;
+}

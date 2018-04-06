@@ -1,0 +1,53 @@
+body {
+  background-image: url(images/IMG_wood.JPG);
+}
+
+header {
+  padding: 20px 0;
+  border-bottom: 4px solid gold;
+  text-align: center;
+}
+
+ li {
+  padding: 0 20px;
+  display: inline;
+  font-family: 'Oswald', sans-serif;
+  font-size: 30px;
+  padding-right: 50px;
+  padding-left: 50px;
+}
+
+a {
+  text-decoration: none;
+  color: gold;
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+  color: white;
+}
+
+h3 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+  text-align: center;
+  color: white;
+}
+
+
+#familypicture {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#sawing {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  height: auto;
+}
